@@ -197,7 +197,7 @@ img {
     color: #5fcf80;
 }
 
-/* .navbar .dropdown ul {
+.navbar .dropdown ul {
   display: block;
   position: absolute;
   left: 30px;
@@ -251,7 +251,7 @@ img {
   top: 0;
   left: 100%;
   visibility: visible;
-} */
+}
 
 /* @media (max-width: 1366px) {
   .navbar .dropdown .dropdown ul {
@@ -643,7 +643,6 @@ section {
 @media (max-width: 1023px) {
     #footer .footer-top {
         padding-left: 16px;
-        ma
     }
 }
 

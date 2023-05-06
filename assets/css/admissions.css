@@ -197,7 +197,7 @@ img {
     color: var(--sub-color);
 }
 
-/* .navbar .dropdown ul {
+.navbar .dropdown ul {
   display: block;
   position: absolute;
   left: 30px;
@@ -231,9 +231,9 @@ img {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover > a {
-  /* color: #5fcf80; */
+  color: #5fcf80;
   /* color: var(--main-color); */
-/* } */
+}
 
 .navbar .dropdown:hover > ul {
   opacity: 1;
