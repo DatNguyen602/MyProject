@@ -27,6 +27,10 @@ h6 {
     font-family: "Raleway", sans-serif;
 }
 
+.mheight-108{
+    min-height: 108px !important;
+}
+
 /* img {
     border-radius: 2px;
     width: 80%;
